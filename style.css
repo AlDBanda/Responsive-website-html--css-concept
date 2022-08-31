@@ -12,7 +12,7 @@ a {
   text-decoration: none;
 }
 
-ul{
+ul {
   list-style: none;
 }
 
@@ -124,11 +124,11 @@ section {
   align-items: center;
 }
 
-.row .col img{
+.row .col img {
   width: 80%;
 }
 
-.events .row{
+.events .row {
   margin-top: 50px;
 
 }
@@ -235,7 +235,7 @@ p {
   text-align: center;
 }
 
-.footer p{
+.footer p {
   color: whitesmoke;
   margin: 20px auto;
   padding: 20px auto;

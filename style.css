@@ -95,6 +95,7 @@ header {
   right: 30px;
   width: 40px;
   cursor: pointer;
+  display: none;
 }
 /* Mobile device */
 @media only screen and (max-width:850px){
